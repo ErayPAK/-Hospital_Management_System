@@ -1,0 +1,81 @@
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\bin\Debug\HastaneOtomasyonSistemi.exe.config
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\bin\Debug\HastaneOtomasyonSistemi.exe
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\bin\Debug\HastaneOtomasyonSistemi.pdb
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmGiris.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.Properties.Resources.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.csproj.GenerateResource.cache
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.exe
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.pdb
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.exe.config
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmHastaGiris.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmHastaKayit.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmHastaDetay.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmTahlilSonuclari.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmDoktorGiris.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmDoktorDetay.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmSekreterDetay.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmSekreterGiris.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmDoktorPaneli.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmBransPaneli.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmRandevuListesi.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmDuyurular.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmAdminGiris.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmAdminPaneli.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmHastaPaneli.resources
+C:\Users\ERAY PAK\Desktop\VERİTABANI PROJE\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmSekreterPaneli.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\bin\Debug\HastaneOtomasyonSistemi.exe.config
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\bin\Debug\HastaneOtomasyonSistemi.exe
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\bin\Debug\HastaneOtomasyonSistemi.pdb
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.exe.config
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmAdminGiris.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmAdminPaneli.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmBransPaneli.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmDoktorDetay.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmDoktorGiris.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmDoktorPaneli.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmDuyurular.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmGiris.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmHastaDetay.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmHastaGiris.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmHastaKayit.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmHastaPaneli.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmRandevuListesi.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmSekreterDetay.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmSekreterGiris.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmSekreterPaneli.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmTahlilSonuclari.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.Properties.Resources.resources
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.csproj.GenerateResource.cache
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.exe
+C:\Users\ERAY PAK\Desktop\230707033_ErayPAK\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.pdb
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\bin\Debug\HastaneOtomasyonSistemi.exe.config
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\bin\Debug\HastaneOtomasyonSistemi.exe
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\bin\Debug\HastaneOtomasyonSistemi.pdb
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.exe.config
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmAdminGiris.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmAdminPaneli.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmBransPaneli.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmDoktorDetay.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmDoktorGiris.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmDoktorPaneli.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmDuyurular.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmGiris.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmHastaDetay.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmHastaGiris.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmHastaKayit.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmHastaPaneli.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmRandevuListesi.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmSekreterDetay.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmSekreterGiris.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmSekreterPaneli.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.FrmTahlilSonuclari.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.Properties.Resources.resources
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.csproj.GenerateResource.cache
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.exe
+C:\Users\ERAY PAK\Desktop\ATAÜNİ NOTLAR\5.YARIYIL\VERİTABANI YÖNETİM SİSTEMLERİ\VTYS ATAUNİ\VTYS PROJE\Hastane Otomasyonu\HastaneOtomasyonSistemi\HastaneOtomasyonSistemi\obj\Debug\HastaneOtomasyonSistemi.pdb
